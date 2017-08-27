@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503825633 source:d:\materi kuliah tel-u\smt 2\ai\routing\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+
